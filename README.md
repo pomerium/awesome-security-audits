@@ -20,8 +20,8 @@ A collection of public security audits / application penetration tests sorted by
 
 ## C&#35;
 
-- [Bitwarden](/audits/Cplusplus/Bitwarden_Cure53_201811080.pdf) by Cure53 on 2018/11/08
+- [Bitwarden](/audits/Csharp/Bitwarden_Cure53_20181108.pdf) by Cure53 on 2018/11/08
 
 ## C++
 
-- [Envoy](/audits/Csharp/Envoy_Cure53_20180227.pdf) by Cure53 on 2018/02/27
+- [Envoy](/audits/Cplusplus/Envoy_Cure53_20180227.pdf) by Cure53 on 2018/02/27
