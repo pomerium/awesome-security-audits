@@ -13,6 +13,15 @@ A collection of public security audits / application penetration tests sorted by
 - [Open Policy Agent](/audits/go/Open-Policy-Agent_Cure53_20180830.pdf) by Cure53 on 2018/08/30
 - [Prometheus](/audits/go/Prometheus_Cure53_201806011.pdf) by Cure53 on 2018/06/011
 - [TUF_Notary](/audits/go/TUF_Notary_Cure53_20180807.pdf) by Cure53 on 2018/08/07
-- [Telekub](/audits/go/Telekub_Cure53_20171023.pdf) by Cure53 on 2017/10/23
-- [Teleport](/audits/go/Teleport_Cure53_20170501.pdf) by Cure53 on 2017/05/01
+- [Telekube](/audits/go/Telekub_Cure53_20171023.pdf) by Cure53 on 2017/10/23
+- [Teleport 2018](/audits/go/Teleport_Cure53_20180528.pdf) by Cure53 on 2018/05/28
+- [Teleport 2017](/audits/go/Teleport_Cure53_20170501.pdf) by Cure53 on 2017/05/01
 - [Vitess](/audits/go/Vitess_Cure53_20190803.pdf) by Cure53 on 2019/08/03
+
+## C&#35;
+
+- [Bitwarden](/audits/C#/Bitwarden_Cure53_201811080.pdf) by Cure53 on 2018/11/08
+
+## C++
+
+- [Envoy](/audits/C#/Envoy_Cure53_20180227.pdf) by Cure53 on 2018/02/27
